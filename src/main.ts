@@ -109,7 +109,7 @@ function main() {
       icosphere.create();
     }
     renderer.render(camera, custom /*lambert*/, [
-      //icosphere,
+      icosphere,
       //square,
       cube
     ], itemColor);
