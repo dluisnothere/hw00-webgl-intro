@@ -23,6 +23,7 @@ class Cube extends Drawable {
            16, 17, 18, 16, 18, 19,
            20, 21, 22, 20, 22, 23]);
 
+           
         this.positions = new Float32Array([1, -1, -1, 1, //back
             -1, -1, -1, 1,
             -1, 1, -1, 1,
